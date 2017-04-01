@@ -18,8 +18,10 @@ The mapApp can be tested
 
 ![Preview Image](/mapAppImage.JPG)
 Earthquakes
+
 ![Preview Image](/mapAppImage2.JPG)
 Airport Routes
+
 ![Preview Image](/mapAppImage3.JPG)
 Life Expentancy
 
