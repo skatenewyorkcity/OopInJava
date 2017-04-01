@@ -1,5 +1,5 @@
 # oopInJava
-A map application to view EarthQuakes, Airport routes and Life Expentancy world wide by parsing RSS feeds
+A map application to view Earthquakes, Airport routes and Life Expentancy world wide by parsing RSS feeds
 
 ## Getting Started
 Take a look at the following information before running the project.
