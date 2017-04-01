@@ -14,7 +14,7 @@ Eclipse IDE
 You can download/clone this project and then load the workspace named 'UCSDUndfoldingMaps', run each module for respective features at 'UCSDUnfoldingMaps/src/*' 
 
 ### Running the tests
-The mapApp can be tested 
+The following are screenshots of mapApp when tested: 
 
 ![Preview Image](/mapAppImage.JPG)
 Earthquakes
