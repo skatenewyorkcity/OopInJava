@@ -23,6 +23,7 @@ Earthquakes
 Airport Routes
 
 ![Preview Image](/mapAppImage3.JPG)
+
 Life Expentancy
 
 ### Built With
