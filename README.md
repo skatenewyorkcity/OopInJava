@@ -5,7 +5,7 @@ A map application to view Earthquakes, Airport routes and Life Expentancy world 
 Take a look at the following information before running the project.
 
 ### Prerequisites
-Must have a Java IDE for testing, sucg as:
+Must have a Java IDE for testing, such as:
 ```
 Eclipse IDE
 ```
