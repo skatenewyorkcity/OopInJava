@@ -17,9 +17,11 @@ You can download/clone this project and then load the workspace named 'UCSDUndfo
 The following are screenshots of mapApp when tested: 
 
 ![Preview Image](/mapAppImage.JPG)
+
 Earthquakes
 
 ![Preview Image](/mapAppImage2.JPG)
+
 Airport Routes
 
 ![Preview Image](/mapAppImage3.JPG)
